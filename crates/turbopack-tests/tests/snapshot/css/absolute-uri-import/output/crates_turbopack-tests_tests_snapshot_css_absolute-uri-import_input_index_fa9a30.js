@@ -1,7 +1,7 @@
 (globalThis.TURBOPACK = globalThis.TURBOPACK || []).push([
-    "output/crates_turbopack-tests_tests_snapshot_css_absolute-uri-import_input_index_082e10.js",
+    "output/crates_turbopack-tests_tests_snapshot_css_absolute-uri-import_input_index_fa9a30.js",
     {},
-    {"otherChunks":["output/crates_turbopack-tests_tests_snapshot_css_absolute-uri-import_input_index.css","output/crates_turbopack-tests_tests_snapshot_css_absolute-uri-import_input_index_b53fce.js"],"runtimeModuleIds":["[project]/crates/turbopack-tests/tests/snapshot/css/absolute-uri-import/input/index.js (ecmascript)"]}
+    {"otherChunks":["output/crates_turbopack-tests_tests_snapshot_css_absolute-uri-import_input_index_b53fce.js","output/crates_turbopack-tests_tests_snapshot_css_absolute-uri-import_input_index.css"],"runtimeModuleIds":["[project]/crates/turbopack-tests/tests/snapshot/css/absolute-uri-import/input/index.js (ecmascript)"]}
 ]);
 (() => {
 if (!Array.isArray(globalThis.TURBOPACK)) {
