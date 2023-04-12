@@ -7607,6 +7607,7 @@ dependencies = [
  "turbo-tasks-fs",
  "turbo-tasks-hash",
  "turbopack-core",
+ "turbopack-css",
  "turbopack-ecmascript",
 ]
 
